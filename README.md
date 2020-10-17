@@ -1,3 +1,3 @@
 ## Primeiro Repositório no GitHub
 
-Nosso primeiro versionamento
+Nosso primeiro versionamento no GitHub
